@@ -1,8 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  overflow-y: auto;
 }
 ::-webkit-scrollbar {
   display: none;
@@ -13,18 +18,19 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(248, 248, 248);
+  background-image: linear-gradient(to right top, #f0f0f0, #c7c7c7, #a09f9f, #7a7a79, #565655);
+ 
 }
 .google-login-btn{
   box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
   border: 1px solid rgba(0, 0, 0, 0.149);
+   
 }
 .login-text{
   font-weight: 700;
 }
-.pending-Btn{
-  background-color: black;
-  color: white;
+.pending-Btn{ 
+  color: rgb(0, 0, 0);
   border: 1px solid black;
 
   border-top-right-radius: 0;
@@ -33,11 +39,65 @@
   border-top-left-radius: 8px;
   border-bottom-left-radius: 8px;
 }
-.pending-Btn:hover{
-  background-color: #333;
-  border-top-left-radius: 8px;
-  border-bottom-left-radius: 8px;
+
+.pending-Btn, .approved-btn {
+  transition: background-color 0.3s ease, color 0.3s ease, border 0.3s ease;
 }
+
+.pending-Btn.active,
+.approved-btn.active {
+  background-color: black; /* Active background color */
+  color: white; /* Active text color */
+  border: 1px solid black; /* Active border color */
+}
+
+.pending-Btn:not(.active),
+.approved-btn:not(.active) {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+
+.pending-Btn:hover, .approved-btn:hover {
+  background-color: #000000; /* Hover background color */
+  color: white;
+  border: 1px solid #000000;
+}
+
+.slide-in {
+  position: fixed;
+  right: 0;
+  top: 0;
+  height: 100vh;
+  width: 600px;
+  background: white;
+  transform: translateX(100%);
+  transition: transform 5s cubic-bezier(0.215, 0.610, 0.355, 1);
+}
+
+.slide-in.active {
+  transform: translateX(0);
+}
+
+ 
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+.OdoMeterImg{
+  width: 200px;
+}
+.custm-User-Card {
+  transition: background-color 0.3s ease;
+}
+
+.custm-User-Card:focus {
+  background-color: #f0f8ff; 
+  outline: none; /* Removes any default outline */ 
+}
+
+
 .approved-btn{
   background-color: white;
   border: 1px solid black;
@@ -49,16 +109,8 @@
   border-bottom-right-radius: 8px;
 
 }
-.approved-btn:hover{
-  background-color: black;
-  border: 1px solid black;
-  color: white;
-  border-top-left-radius: 0;
-  border-bottom-left-radius: 0;
-  border-top-right-radius: 8px;
-  border-bottom-right-radius: 8px;
-}
 
+ 
 .arrow-hover {
   opacity: 0.5; /* Default opacity for the arrow */
   transition: opacity 0.3s ease; /* Smooth transition effect */

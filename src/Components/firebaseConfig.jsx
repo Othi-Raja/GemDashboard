@@ -5,13 +5,13 @@ import { getFirestore, collection, getDocs } from 'firebase/firestore'
 // import { getAnalytics } from "firebase/analytics";
 //firebase configration
 const firebaseConfig = {
-  apiKey: "AIzaSyB4Ko0rFxCVJQs_3IkRkOT0T8ZiKFwGYww",
-  authDomain: "gem-website-dev.firebaseapp.com",
-  projectId: "gem-website-dev",
-  storageBucket: "gem-website-dev.appspot.com",
-  messagingSenderId: "244096394468",
-  appId: "1:244096394468:web:77f8363331bd3382ebb8f1",
-  measurementId: "G-XCLWMGZJJ4"
+  apiKey: "AIzaSyBXkXV-Rf5M5jC7CT-Bmq4-2DKPBbAR_7k",
+  authDomain: "goeleventhmileapp.firebaseapp.com",
+  projectId: "goeleventhmileapp",
+  storageBucket: "goeleventhmileapp.appspot.com",
+  messagingSenderId: "1016707959718",
+  appId: "1:1016707959718:web:13bb214a6d3398cb189d67",
+  measurementId: "G-4SXDXWBYRZ"
 };
 
 // Initialize Firebase

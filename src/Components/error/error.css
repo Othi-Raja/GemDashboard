@@ -1,0 +1,15 @@
+/* Keyframes for smooth blink effect */
+@keyframes smooth-blink {
+    0%, 100% {
+      opacity: 1; /* Visible at the start and end */
+    }
+    50% {
+      opacity: 0; /* Invisible at the midpoint */
+    }
+  }
+  
+  /* Apply the animation to the element */
+  .blink {
+    animation: smooth-blink 3s ease-in-out infinite; /* Duration and easing */
+  }
+  

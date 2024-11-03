@@ -1,0 +1,32 @@
+
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Remove spinner for Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.custm-border{
+    border: 1px solid rgba(128, 128, 128, 0.192);
+}
+
+.event-button-list .btn {
+    border: none; /* Remove border */
+    outline: none; /* Remove outline on focus */
+    transition: none; /* Disable transition animations */
+  }
+  
+  .event-button-list:hover {
+    box-shadow: none; /* Remove shadow on hover */
+  }
+  
+  /* If you want to target a specific class for buttons within the event button list */
+  .event-button-list:not(.disabled):hover {
+    color: inherit; /* Keep text color unchanged on hover */
+    background-color: transparent; /* Keep background color unchanged on hover */
+  }
+  

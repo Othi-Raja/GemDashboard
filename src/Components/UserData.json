@@ -16,7 +16,14 @@
             "bike": "Royal Enfield",
             "bikeNumber": "123456",
             "bikeModel": "Himalayan",
-            "rideType": "Morning"
+            "rideType": "Morning",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+        "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "15"
     },
@@ -37,7 +44,14 @@
             "bike": "KTM",
             "bikeNumber": "654321",
             "bikeModel": "Duke 390",
-            "rideType": "Evening"
+            "rideType": "Evening",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+        "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "11"
     },
@@ -58,7 +72,14 @@
             "bike": "Yamaha",
             "bikeNumber": "987654",
             "bikeModel": "MT-15",
-            "rideType": "Morning"
+            "rideType": "Morning",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "9"
     },
@@ -79,7 +100,14 @@
             "bike": "Honda",
             "bikeNumber": "543210",
             "bikeModel": "CBR 150R",
-            "rideType": "Evening"
+            "rideType": "Evening",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "19"
     },
@@ -100,7 +128,14 @@
             "bike": "Suzuki",
             "bikeNumber": "876543",
             "bikeModel": "GSX-R1000",
-            "rideType": "Morning"
+            "rideType": "Morning",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "13"
     },
@@ -121,7 +156,14 @@
             "bike": "Kawasaki",
             "bikeNumber": "123123",
             "bikeModel": "Ninja 300",
-            "rideType": "Evening"
+            "rideType": "Evening",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "12"
     },
@@ -142,7 +184,14 @@
             "bike": "Ducati",
             "bikeNumber": "234234",
             "bikeModel": "Panigale V2",
-            "rideType": "Morning"
+            "rideType": "Morning",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "22"
     },
@@ -163,7 +212,14 @@
             "bike": "BMW",
             "bikeNumber": "456456",
             "bikeModel": "S1000RR",
-            "rideType": "Evening"
+            "rideType": "Evening",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "25"
     },
@@ -184,7 +240,14 @@
             "bike": "Triumph",
             "bikeNumber": "567567",
             "bikeModel": "Street Triple",
-            "rideType": "Morning"
+            "rideType": "Morning",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "30"
     },
@@ -205,7 +268,14 @@
             "bike": "Harley Davidson",
             "bikeNumber": "678678",
             "bikeModel": "Iron 883",
-            "rideType": "Evening"
+            "rideType": "Evening",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "28"
     },
@@ -226,7 +296,14 @@
             "bike": "Harley Davidson",
             "bikeNumber": "678678",
             "bikeModel": "Iron 883",
-            "rideType": "Evening"
+            "rideType": "Evening",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "27"
     },
@@ -247,7 +324,14 @@
             "bike": "Triumph",
             "bikeNumber": "567567",
             "bikeModel": "Street Triple",
-            "rideType": "Morning"
+            "rideType": "Morning",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "30"
     },
@@ -268,7 +352,14 @@
             "bike": "Ducati",
             "bikeNumber": "111111",
             "bikeModel": "Monster 821",
-            "rideType": "Morning"
+            "rideType": "Morning",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "40"
     },
@@ -289,7 +380,14 @@
             "bike": "Yamaha",
             "bikeNumber": "222222",
             "bikeModel": "R3",
-            "rideType": "Evening"
+            "rideType": "Evening",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "18"
     },
@@ -310,7 +408,14 @@
             "bike": "KTM",
             "bikeNumber": "333333",
             "bikeModel": "RC 390",
-            "rideType": "Morning"
+            "rideType": "Morning",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "22"
     },
@@ -331,7 +436,14 @@
             "bike": "Harley Davidson",
             "bikeNumber": "444444",
             "bikeModel": "Fat Boy",
-            "rideType": "Evening"
+            "rideType": "Evening",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "29"
     },
@@ -352,7 +464,14 @@
             "bike": "Kawasaki",
             "bikeNumber": "555555",
             "bikeModel": "Z900",
-            "rideType": "Morning"
+            "rideType": "Morning",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "50"
     },
@@ -373,7 +492,14 @@
             "bike": "BMW",
             "bikeNumber": "666666",
             "bikeModel": "S1000RR",
-            "rideType": "Evening"
+            "rideType": "Evening",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "65"
     },
@@ -394,7 +520,14 @@
             "bike": "Ducati",
             "bikeNumber": "777777",
             "bikeModel": "Panigale V4",
-            "rideType": "Morning"
+            "rideType": "Morning",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "40"
     },
@@ -415,7 +548,14 @@
             "bike": "Harley Davidson",
             "bikeNumber": "888888",
             "bikeModel": "Road King",
-            "rideType": "Evening"
+            "rideType": "Evening",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "75"
     },
@@ -436,7 +576,14 @@
             "bike": "BMW",
             "bikeNumber": "999999",
             "bikeModel": "R1250GS",
-            "rideType": "Morning"
+            "rideType": "Morning",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "85"
     },
@@ -459,9 +606,14 @@
             "bikeModel": "YZF-R1",
             "rideType": "Evening"
         },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
+        },
         "TotalRide": "100"
-    }
-    ,
+    },
     "23": {
         "Name": "Janani",
         "Date": "2004-10-20",
@@ -479,8 +631,15 @@
             "bike": "Yamaha",
             "bikeNumber": "101010",
             "bikeModel": "YZF-R1",
-            "rideType": "Evening"
+            "rideType": "Evening",
+            "logo": "https://imgs.search.brave.com/8bJxkRdN-ihW6e_jFiuuI3MH5lc8J6yqQ0hGi2FAUgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJhL2Y0/L2I4LzJhZjRiODBm/Yjc0ODQyNWE1OGVk/MmNlOGM0NDVkOTZi/LmpwZw"
+        },
+       "odoMeter": { 
+            "DateTimebefore":"2021-01-02 10:30 ",
+            "before": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185",
+            "DateTimeAfter":"2021-01-02 01:22",
+            "After": "https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/Screenshot%202024-10-07%20222429.png?alt=media&token=a7b10a5b-5334-4d12-bb2f-07f3eafef185"
         },
         "TotalRide": "100"
     }
-} 
+}
